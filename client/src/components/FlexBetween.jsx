@@ -1,4 +1,4 @@
-const { styled } = require("@mui/styled");
+const { styled } = require("@mui/styles");
 const { Box } = require("@mui/system");
 
 const FlexBetween = styled(Box)({
